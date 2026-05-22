@@ -1,3 +1,9 @@
+# profile-title: Картошка🍟
+# profile-web-page: https://github.com
+# support-url: https://t.me
+# profile-update-interval: 1
+# subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
+
 vless://39302de7-936d-4a80-80c3-8258c680f02d@78.159.131.46:3443?type=xhttp&security=tls&sni=vpnalb.potatosubge20.org&fp=chrome#%F0%9F%87%AA%F0%9F%87%BA+%D0%90%D0%B2%D1%82%D0%BE+Smart+%2B+%D0%91%D0%B5%D0%BB%D1%8B%D0%B9%F0%9F%8F%B3%EF%B8%8F+%D0%A2%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE+%D0%B2+Happ
 vless://39302de7-936d-4a80-80c3-8258c680f02d@45.89.60.123:443?type=xhttp&security=tls&sni=aldamn.potatosubge20.org&fp=chrome#%F0%9F%87%AA%F0%9F%87%BA+%D0%90%D0%B2%D1%82%D0%BE+Smart+%2B+%D0%91%D0%B5%D0%BB%D1%8B%D0%B9%F0%9F%8F%B3%EF%B8%8F+%D0%A2%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE+%D0%B2+Happ
 vless://39302de7-936d-4a80-80c3-8258c680f02d@87.239.135.110:443?type=xhttp&security=reality&sni=www.microsoft.com&pbk=pGHYmBhOdvOTyk5CWmd_wbZCUc4JV4XiqLlfTtvoPk8&fp=chrome#%F0%9F%87%AA%F0%9F%87%BA+%D0%90%D0%B2%D1%82%D0%BE+Smart+%2B+%D0%91%D0%B5%D0%BB%D1%8B%D0%B9%F0%9F%8F%B3%EF%B8%8F+%D0%A2%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE+%D0%B2+Happ
